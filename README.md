@@ -1,4 +1,4 @@
-# Nashville Software School: Front-end Challenges
+# Nashville Software School: Front-End Challenge
 
 ## Challenge #1 
 
